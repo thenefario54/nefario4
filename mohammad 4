@@ -1,6 +1,19 @@
 for github
 
 
+awdawddadada/
+ae.aeae
+a.ea
+e,ae,aeraeyuyiku
+-h
+kgyjf
+jftuh
+td,
+.y
+dy.
+edy
+edtydyhrtfyh
+
 contract TokenCorrect is Token {
     mapping (address => uint) balance;
     constructor(address _a, uint _b) {
