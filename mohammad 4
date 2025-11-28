@@ -1,8 +1,5 @@
 for github
 
-f to do 
-jj be a 
-
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0;
 interface Token {
